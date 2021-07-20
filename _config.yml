@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+
+title                    : "COVID19 in PAHO region" # 블로그 좌측상단의 제목
+name                     : "COVID19 in PAHO"
+description              : "Study on COVID19 impact on PAHO region countries"
+repository               : "PAHO-ghe/PAHO-ghe.github.io" # 블로그 github 리포지토리
+search                   : true # 사이트 우측 상단 검색 활성화
+search_full_content      : true # 제목이 아닌 내용까지도 검색할 것인지에 대한 설정 기본 false
+
+author:
+  github : "PAHO-ghe" # 주소 전체를 적는 것이 아닌 자신의 정보만 적는다.
