@@ -8,3 +8,4 @@
 
 
 # 3. Excess death forecasting due to COVID19 in Americas
+[Excess death foracasting due to COVID19 in Americas](https://paho-ghe.github.io/excessdeath/)
